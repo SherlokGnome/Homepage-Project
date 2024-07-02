@@ -177,7 +177,7 @@ figure:hover {
   margin: 20px;
 }
 .team-cont:hover {
-  transform: scale(1.4);
+  transform: scale(1.1);
 }
 .team-card {
   display: flex;
