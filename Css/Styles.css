@@ -147,7 +147,7 @@ nav {
   transition: 0.3s;
 }
 figure:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 .fig-cont img {
   width: 100%;
